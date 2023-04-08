@@ -3,7 +3,7 @@
 - 🔭 Today I work with Front-end
 - 🌱 Studying UI/UX Design
 - 📫 Contact me on email: support@editaaaedesign.com.br
-- Sonho em um dia ser um developer e trabalhar na @rocketseat
+- Sonho em um dia ser um developer e trabalhar na @Rocketseat
 
 <div align="center">
   <a href="https://github.com/jao3g">
